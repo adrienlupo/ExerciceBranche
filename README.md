@@ -1,2 +1,2 @@
 # ExerciceBranche
-Exercice pour s'entrainer aux branches
+Exo Branche M2i
